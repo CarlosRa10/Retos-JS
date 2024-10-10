@@ -14,7 +14,6 @@ function findFirstRepeated(giftIds) {
     return -1; // Si no hay números repetidos, retorna -1
 }
 
-// Ejemplos de prueba
 const giftIds = [2, 1, 3, 5, 3, 2];
 const firstRepeatedId = findFirstRepeated(giftIds);
 console.log(firstRepeatedId); // 3
