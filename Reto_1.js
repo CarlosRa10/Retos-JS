@@ -1,5 +1,5 @@
 //El método has() retorna un booleano indicando si el elemento especificado existe en el objeto Set o no.
-
+//
 function findFirstRepeated(giftIds) {
     const seen = new Set(); // Conjunto para almacenar los números que ya hemos visto-(Set) es una colección de valores únicos, lo que significa que no puede contener duplicados
 
